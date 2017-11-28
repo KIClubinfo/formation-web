@@ -88,3 +88,8 @@ Certains ont déjà fait de jolis sites sur notre hébergement et nous les en f�
 ### Slides
 
 https://docs.google.com/presentation/d/1q053bUunEgBERAblGZB6U48LhbWq8i1IPSSJkNveFSQ
+
+## Mailing list
+
+Le suivie de la formation continue à se faire via la mailing list formation-web@liste.enpc.fr.
+Les abonnements sont libres sur approbation d'un propriétaire à l'adresse : https://liste.enpc.fr/sympa/info/formation-web
