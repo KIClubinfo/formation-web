@@ -92,4 +92,8 @@ https://docs.google.com/presentation/d/1q053bUunEgBERAblGZB6U48LhbWq8i1IPSSJkNve
 ## Mailing list
 
 Le suivie de la formation continue à se faire via la mailing list formation-web@liste.enpc.fr.
-Les abonnements sont libres sur approbation d'un propriétaire à l'adresse : https://liste.enpc.fr/sympa/info/formation-web
+Les abonnements sont libres sur approbation d'un propriétaire à l'adresse : https://liste.enpc.fr/sympa/info/formation-web.
+
+## Slack
+
+Workspace Slack de discussion de la formation : https://ki-formationweb.slack.com/
